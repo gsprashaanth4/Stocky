@@ -1,0 +1,9 @@
+src/data/
+src/models/
+src/test.py
+
+__pycache__/
+
+test.py
+
+venv/
